@@ -1,4 +1,4 @@
-module mousejiggler
+module github.com/pyrat/mousejiggler
 
 go 1.14
 
