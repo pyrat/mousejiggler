@@ -9,4 +9,3 @@ Can be useful if you have a long running background task.
 
 `mousejiggler`
 
-Now your computer with stay online and awake. Status: Online.
